@@ -2,3 +2,6 @@ hello i am doing git cloning practicing using CLI.
 
 
 practicng more comiting 2
+
+
+this is i am changing in git hub to get it on my personal computer
